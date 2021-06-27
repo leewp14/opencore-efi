@@ -1,0 +1,4 @@
+PciRoot(0x0)/Pci(0x1B,0x0)
+
+
+IDT 92HD81B1C

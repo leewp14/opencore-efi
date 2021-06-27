@@ -1,0 +1,29 @@
+  #######################################################
+ #             MacBookPro9,1 SMBIOS Info               #
+#######################################################
+
+Type:         MacBookPro9,1
+Serial:       C02JG0GKF1G4
+Board Serial: C02239404GUF327AD
+SmUUID:       97567664-0854-4A8E-BB3A-BB3C426D605E
+
+Press [enter] to return...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
